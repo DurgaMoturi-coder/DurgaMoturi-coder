@@ -1,16 +1,12 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=venom&height=220&color=0:0F172A,50:1D4ED8,100:06B6D4&text=Durga%20Moturi&fontColor=FFFFFF&fontSize=54&fontAlignY=42&desc=WEB%20DEVELOPER%20%7C%20DIGITAL%20MARKETING&descSize=16&descAlignY=62&animation=fadeIn" width="100%" alt="Durga Moturi banner"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,100:1D4ED8&height=220&section=header&text=Durga%20Moturi&fontSize=48&fontColor=FFFFFF&fontAlignY=35&desc=WEB%20DEVELOPER%20%7C%20DIGITAL%20MARKETING&descSize=15&descAlignY=55&animation=fadeIn" alt="Durga Moturi — Web Developer and Digital Marketing" width="100%"/>
 
-<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=500&size=21&pause=1000&color=38BDF8&center=true&vCenter=true&width=750&lines=Frontend+%26+WordPress+Developer;SEO+%7C+Meta+Ads+%7C+Google+Ads;Building+Responsive+Websites;Learning+React+and+Growing+Every+Day" alt="Animated typing headline"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1600&color=0284C7&center=true&vCenter=true&width=700&height=50&lines=Frontend+%26+WordPress+Developer;SEO+%7C+Meta+Ads+%7C+Google+Ads;Building+Responsive+Websites;Learning+React+Every+Day" alt="Animated profile headline" />
 
-<a href="https://www.linkedin.com/in/durga-rao-moturi-10a273304/">
-<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin" alt="LinkedIn"/>
-</a>
-<a href="https://github.com/DurgaMoturi-coder">
-<img src="https://img.shields.io/badge/GitHub-Follow-111827?style=for-the-badge&logo=github" alt="GitHub"/>
-</a>
+<a href="https://www.linkedin.com/in/durga-rao-moturi-10a273304/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+<a href="https://github.com/DurgaMoturi-coder"><img src="https://img.shields.io/badge/GitHub-Follow-111827?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
 
 <img src="https://img.shields.io/badge/Experience-3%2B%20Years-0F766E?style=flat-square" alt="3+ years experience"/>
 <img src="https://img.shields.io/badge/Focus-Web%20Development-1D4ED8?style=flat-square" alt="Web development"/>
